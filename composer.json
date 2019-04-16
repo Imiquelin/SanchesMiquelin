@@ -1,0 +1,19 @@
+{
+    "name": "igor.miquelin",
+    "description": "Projeto PHP OO",
+    "authors": [
+        {
+            "name": "Igor Miquelin",
+            "email": "igor.miquelin@outlook.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "Sts\\": "app/sts",
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,145 @@
+body {
+  margin-bottom: 60px;
+}
+nav ul li.menu a{
+	color: #FFF !important;
+}
+nav ul li.menu a:hover{
+	color: #000 !important;
+}
+header{
+	margin-bottom: 56px !important;
+}
+.servicos{
+	background-color: #f9faff;
+	border-radius: 0rem;
+	margin-bottom: 0rem;
+}
+/*Inicio tamanho icone*/
+.tamanh-icone{
+	background: #fff;
+    color: #444;
+    font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.icon-row {
+    padding: 5px 0 0px;
+}
+.ion {
+    -webkit-touch-callout: text;
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+.preview-icon { vertical-align: bottom; }
+
+.preview-scale {
+    color: #888;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.step {
+    display: inline-block;
+    line-height: 1;
+    position: relative;
+    width: 100%;
+}
+.step i {
+    -webkit-transition: opacity .3s;
+    -moz-transition: opacity .3s;
+    -ms-transition: opacity .3s;
+    -o-transition: opacity .3s;
+    transition: opacity .3s;
+}
+
+.step:hover i { opacity: .3; }
+    
+.size-12 { font-size: 12px; }
+.size-14 { font-size: 14px; }
+.size-16 { font-size: 16px; }
+.size-18 { font-size: 18px; }
+.size-21 { font-size: 21px; }
+.size-24 { font-size: 24px; }
+.size-32 { font-size: 32px; }
+.size-48 { font-size: 48px; }
+.size-64 { font-size: 64px; }
+.size-96 { font-size: 96px; }
+/*Fim tamanho icone*/
+
+.video{
+	background-color: #F52D2A;
+	border-radius: 0rem;
+	margin-bottom: 0rem;	
+	color: #FFF;
+}
+.blog-home{
+	background-color: #F9FAFF;
+	border-radius: 0rem;
+	margin-bottom: 0rem;	
+}
+/*Inicio Rodape*/
+html {
+  position: relative;
+  min-height: 100%;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	color: #FFF;
+}
+.sobre-empresa{
+	background-color: #F9FAFF;
+	border-radius: 0rem;
+	margin-bottom: 0rem;	
+}
+.contato{
+	background-color: #F9FAFF;
+	border-radius: 0rem;
+	margin-bottom: 0rem;	
+}
+/*Blog*/
+.blog{
+	background-color: #F9FAFF;
+	border-radius: 0rem;
+	margin-bottom: 0rem;	
+}
+.display-4 {
+  font-size: 2.5rem;
+}
+@media (min-width: 768px) {
+  .display-4 {
+    font-size: 3rem;
+  }
+}
+/* Pagination */
+.blog-pagination {
+  margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+  border-radius: 2rem;
+}
+/* Blog posts*/
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: .25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+.blog-text a{
+	text-decoration: none;
+}
+
+
+
+
+
